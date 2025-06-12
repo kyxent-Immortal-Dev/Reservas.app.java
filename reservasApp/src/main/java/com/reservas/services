@@ -1,0 +1,12 @@
+package com.reservas.services;
+
+import com.reservas.models.Hotel;
+import java.util.List;
+
+public interface HotelService {
+    List<Hotel> findAllHotels();
+    Hotel findHotelById(Long id);
+    void addHotel(Hotel hotel);
+    void updateHotel(Hotel hotel);
+    void deleteHotel(Long id);
+}

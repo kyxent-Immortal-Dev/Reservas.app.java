@@ -27,8 +27,8 @@ Este proyecto es una implementación de un sistema de reservas en consola que ut
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/reservas-app.git
-cd reservas-app
+git https://github.com/kyxent-Immortal-Dev/Reservas.app.java.git
+cd Reservas.app.java
 ```
 
 2. Compilar el proyecto:
